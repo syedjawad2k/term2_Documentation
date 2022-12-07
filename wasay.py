@@ -1,4 +1,4 @@
-# jawad it's so easy don't freak out yet
-# that's a natural human response 
-# you'kk get used to it 
-# welcome to Computer Science 
+import pandas as pd
+
+# Read the data from the file
+data = pd.read_csv('wasay.csv')
