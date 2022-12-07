@@ -1,4 +1,4 @@
-import pandas as pd
-
-df = pd.dataframe({'col1': [1, 2], 'col2': [3, 4]})
-print(df)
+# jawad it's so easy don't freak out yet
+# that's a natural human response 
+# you'kk get used to it 
+# welcome to Computer Science 
